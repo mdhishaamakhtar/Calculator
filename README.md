@@ -12,3 +12,5 @@
 
 # Instructions to Install
 Clone this repo on your system and open it through Android Studio and build the project.
+
+### Made with the help of tutorials as a learning project
